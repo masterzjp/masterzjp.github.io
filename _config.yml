@@ -1,7 +1,7 @@
 # Site settings
 title: 一蓑烟雨任平生
 SEOTitle: 一蓑烟雨任平生 | ZJP's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-people.jpg
 email: 1178516253@qq.com
 description: "Every failure is leading towards success."
 keyword: "java,spring,mysql,线程，leetcode,心情"
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 6ca26bb699f767aacea6                           #生成的clientID
   clientSecret: da859698f1b4c47d22ff607efbb75d203d97891c    #生成的clientSecret
   repo: masterzjp.github.io.git   #仓库名称
