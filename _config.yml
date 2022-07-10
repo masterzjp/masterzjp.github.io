@@ -1,6 +1,6 @@
 # Site settings
-title: 一蓑烟雨的博客
-SEOTitle: 一蓑烟雨的博客 | MistyRain Blog
+title: 一蓑烟雨任平生
+SEOTitle: 一蓑烟雨任平生 | ZJP's Blog
 header-img: img/post-bg-desk.jpg
 email: 1178516253@qq.com
 description: "Every failure is leading towards success."
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 6ca26bb699f767aacea6                           #生成的clientID
+  clientSecret: da859698f1b4c47d22ff607efbb75d203d97891c    #生成的clientSecret
   repo: masterzjp.github.io.git   #仓库名称
   owner: masterzjp    #github用户名
   admin: masterzjp
